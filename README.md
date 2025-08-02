@@ -14,7 +14,7 @@
     <p>Every contribution helps me grow, learn faster, and prove that it's possible to succeed young 🔥</p>
     <a href="https://ko-fi.com/nathanmht" target="_blank" class="button-ko-fi">Support me on Ko-fi</a>
     <br />
-    <a href="https://fr.fiverr.com/nathan_mht/buying?source=avatar_menu_profile" target="_blank" class="button-fiverr">Visit my Fiverr</a>
+    <a href="http://www.fiverr.com/s/8zD867r" target="_blank" class="button-fiverr">Visit my Fiverr</a>
     <p>👉 Looking for something specific? Feel free to message me. Thanks for your support! 🙏</p>
     <footer>© 2025 Nathan</footer>
   </div>
